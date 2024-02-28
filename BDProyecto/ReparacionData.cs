@@ -10,7 +10,7 @@ using BDProyecto;
 using System.Collections;
 namespace BDProyecto
 {
-    public class Reparacion_QuitoData
+    public class ReparacionData
     {
         public static int insertar_cliente(Reparacion_Quito reparacion_Quito, Conexion conexion)
         {

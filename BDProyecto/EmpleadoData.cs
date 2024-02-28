@@ -10,7 +10,7 @@ using BDProyecto;
 using System.Collections;
 namespace BDProyecto
 {
-    public class Empleado_QuitoData
+    public class EmpleadoData
     {
         public static int insertar_empleado_quito(Empleado_Quito empleado_quito, Conexion conexion)
         {
